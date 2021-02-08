@@ -1,0 +1,117 @@
+[
+    {
+        "domain": "afeka.ac.il",
+        "web_page": "http://www.afeka.ac.il/",
+        "name": "Afeka Tel Aviv Academic College of Engineering"
+    },
+    {
+        "domain": "jct.ac.il",
+        "web_page": "http://www.jct.ac.il/",
+        "name": "JCT Lev Academic Center"
+    },
+    {
+        "domain": "ariel.ac.il",
+        "web_page": "http://www.ariel.ac.il/",
+        "name": "Ariel University Center of Samaria"
+    },
+    {
+        "domain": "ash-college.ac.il",
+        "web_page": "http://www.ash-college.ac.il/",
+        "name": "Ashkelon Academic College"
+    },
+    {
+        "domain": "bezalel.ac.il",
+        "web_page": "http://www.bezalel.ac.il/",
+        "name": "Bezalel Academy of Art and Design"
+    },
+    {
+        "domain": "bgu.ac.il",
+        "web_page": "http://www.bgu.ac.il/",
+        "name": "Ben-Gurion University of the Negev"
+    },
+    {
+        "domain": "biu.ac.il",
+        "web_page": "http://www.biu.ac.il/",
+        "name": "Bar-Ilan University"
+    },
+    {
+        "domain": "clb.ac.il",
+        "web_page": "http://www.clb.ac.il/",
+        "name": "Acdemic Center for Law and Business"
+    },
+    {
+        "domain": "colman.ac.il",
+        "web_page": "http://www.colman.ac.il/",
+        "name": "College of Management"
+    },
+    {
+        "domain": "galilcol.ac.il",
+        "web_page": "http://www.galilcol.ac.il/",
+        "name": "Galillee College"
+    },
+    {
+        "domain": "haifa.ac.il",
+        "web_page": "http://www.haifa.ac.il/",
+        "name": "University of Haifa"
+    },
+    {
+        "domain": "huji.ac.il",
+        "web_page": "http://www.huji.ac.il/",
+        "name": "Hebrew University of Jerusalem"
+    },
+    {
+        "domain": "idc.ac.il",
+        "web_page": "http://www.idc.ac.il/",
+        "name": "The Interdisciplinary Center Herzliya"
+    },
+    {
+        "domain": "juc.edu",
+        "web_page": "http://www.juc.edu/",
+        "name": "Jerusalem University College"
+    },
+    {
+        "domain": "openu.ac.il",
+        "web_page": "http://www.openu.ac.il/",
+        "name": "Open University of Israel"
+    },
+    {
+        "domain": "rbni.technion.ac.il",
+        "web_page": "http://rbni.technion.ac.il/",
+        "name": "Russell Berrie Nanotechnology Institute"
+    },
+    {
+        "domain": "sce.ac.il",
+        "web_page": "http://www.sce.ac.il/",
+        "name": "Sami Shamoon College of Engineering"
+    },
+    {
+        "domain": "shenkar.ac.il",
+        "web_page": "http://www.shenkar.ac.il/",
+        "name": "Shenkar School of Engineering & Design"
+    },
+    {
+        "domain": "tau.ac.il",
+        "web_page": "http://www.tau.ac.il/",
+        "name": "Tel Aviv University"
+    },
+    {
+        "domain": "technion.ac.il",
+        "web_page": "http://www.technion.ac.il/",
+        "name": "Technion - Israel Institute of Technology"
+    },
+    {
+        "domain": "weizmann.ac.il",
+        "web_page": "http://www.weizmann.ac.il/",
+        "name": "Weizmann Institute of Science"
+    },
+    {
+        "domain": "wgalil.ac.il",
+        "web_page": "http://www.wgalil.ac.il/",
+        "name": "Western Galilee College"
+    },
+    {
+        "domain": "yvc.ac.il",
+        "web_page": "http://www.yvc.ac.il/",
+        "name": "Emeq Yizrael College"
+    }
+]

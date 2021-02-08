@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Shuli Talor - Universities in Israel</title>
+
+    <link href="stylesheet.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="site.js"></script>
+</head>
+
+<body>
+    <div id="header-wrapper">
+        <div id="header" class="container">
+            <div id="logo">
+                <h1>Universities And Collages In Israel</h1>
+            </div>
+
+        </div>
+    </div>
+    <div id="page-wrapper">
+        <div id="page" class="container">
+            <div id="content">
+
+                <div id="two-column">
+                    <div id="tbox1">
+                        <table border="1" id="unitable"></table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="featured-wrapper">
+        <div id="featured" class="container">
+            <header>Enter a new university or collage to add:</header>
+            <label>Name:</label>
+            <input id="newuniname" type="text" placeholder="name" required="true">
+
+            <label>Domain:</label>
+            <input id="newunidomain" type="text" placeholder="domain" required="true">
+
+            <label>web page:</label>
+            <input id="newuniaddress" type="text" placeholder="Web Page" required="true">
+            <br>
+            <br>
+            <button onclick="addUni()" class="button">Create University</button>
+            <br>
+        </div>
+        <br>
+        <div id="featured1" class="container">
+            <header>Choose university or collage to delete from the list above: </header>
+            <select id="unilist"></select>
+            <br>
+            <br>
+            <button onclick="deleteUni()" class="button-alt">delete</button>
+        </div>
+    </div>
+
+</body>
+
+</html>
